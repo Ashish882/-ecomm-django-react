@@ -25,7 +25,7 @@ SECRET_KEY = 'zbqe9g^^aorizk7hk)qlpp(d(q#)!1p*d^r)ft&@z14#yvsyxf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ecomm-django-react.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['ecomm-django-react.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
