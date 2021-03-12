@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'zbqe9g^^aorizk7hk)qlpp(d(q#)!1p*d^r)ft&@z14#yvsyxf'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ecomm-django-react.herokuapp.com', 'localhost']
 
 
 # Application definition
